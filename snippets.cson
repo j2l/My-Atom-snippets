@@ -287,13 +287,13 @@
   'href  (get URL)':
     'prefix': 'href'
     'body':"""
-      "type": "label",
-      "text": "trigger href",
-      "href": {
-        "url": "...",
-        "transition": "...",
-        "view": "..."
-      }
+	   "type": "label",
+	   "text": "trigger href",
+	   "href": {
+		 "url": "...",
+		 "transition": "...",
+		 "view": "..."
+	   }
     """
 
   '$close  (Close a modal (works when the currently view is a modal))':
